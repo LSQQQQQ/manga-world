@@ -1,0 +1,84 @@
+body {
+    background-color: #f1f1f1;
+}
+.w3-content {
+    max-width: 1200px;
+}
+.navigation-bar h1 {
+    margin: 0px;
+}
+.navigation-bar {
+    margin: 0px;
+    /*margin-top: 0px;*/
+}
+.navigation-bar li{
+    display: inline;
+}
+#container2 {
+    background-color: WHITE;
+}
+.slider {
+    width: 1200px;
+    overflow: hidden;
+    margin: auto;
+}
+.slider-container {
+    display: inline-block;
+    width: 912px;
+    height: 528px;
+}
+.slide-image {
+    width: 912px;
+    height: 528px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+.square {
+    /*float: right;*/
+    display: inline-block;
+    /*overflow: auto;*/
+    width: 280px;
+    vertical-align: top;
+}
+.square ul {
+    margin: 0px;
+    padding: 0px;
+}
+.square li {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.square-img {
+    /*position: relative;*/
+    display: inline-block;
+    width: 280px;
+    /*top: -2px;*/
+    height: 171px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.w3-ul li{
+    width: 1200px;
+    overflow: auto;
+}
+.manga_container {
+    display: inline-block;
+    width: 180px;
+    height: 250px;
+}
+.manga_container .cover {
+    width: 100%;
+    height: 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+}
